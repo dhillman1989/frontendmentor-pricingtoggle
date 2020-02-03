@@ -69,6 +69,12 @@ body{
 .card:nth-of-type(odd){
     padding-top: 10px;
     padding-bottom:10px;
+
+}
+
+.card:nth-of-type(even){
+    color: #fff;
+    
 }
 
 .card li{
